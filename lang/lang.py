@@ -1,6 +1,6 @@
-from app.plugins.adultscraperx.lang.en import text as en_text
+from app.plugins.plugin_demo.lang.en import text as en_text
 
-from app.plugins.adultscraperx.lang.zh import text as zh_text
+from app.plugins.plugin_demo.lang.zh import text as zh_text
 
 
 class I18n:

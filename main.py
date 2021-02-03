@@ -1,6 +1,6 @@
 from app.core.model.meta_data import MetaData
-from app.plugins.demo import config
-from app.plugins.demo.config import get_info
+from app.plugins.plugin_demo import config
+from app.plugins.plugin_demo.config import get_info
 from app.tools.cache_tools import check_cache
 from app.tools.log_tools import log
 
